@@ -10,7 +10,7 @@ sentences.txt contains sentences to assess two algorithms.
 
 
 # Approaches 
-We construct CKY and HMM algorithms through Python. CKY is a parsing algorithm takes a sequence and a context-free grammar in Chomsky Normal Form, determines whether it can be parsed into a sentence, and goes probabilistic by multiplying probabilities of sentence components. HMM uses the part-ofspeech tagged sentences from a usage-based corpus to estimate its parameters, thus calculating the probabilities
+We construct CKY and HMM algorithms through Python. CKY is a parsing algorithm takes a sequence and a context-free grammar in Chomsky Normal Form, determines whether it can be parsed into a sentence, and goes probabilistic by multiplying probabilities of sentence components. HMM uses the part-of-speech tagged sentences from a usage-based corpus to estimate its parameters, thus calculating the probabilities
 of success in sentence parsing.
 
 # Findings 
