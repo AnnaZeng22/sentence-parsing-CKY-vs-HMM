@@ -1,5 +1,5 @@
 # Introduction
-The CKY algorithm is a parsing algorithm that takes a sequence and a context-free grammar in Chomsky Normal Form, and determines whether it can be parsed into a sentence. 
+The CKY algorithm is a parsing algorithm that takes a sequence and a context-free grammar in Chomsky Normal Form, and determines whether it can be parsed into a sentence. 
 
 # Files
 rules.txt stores a large CFG.
